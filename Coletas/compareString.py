@@ -1,0 +1,7 @@
+string1 =  "3a61cd3f11713d50dc353927ac5163f7c2c12c2f8952ef880e4b6c270891251a8a0a9eee26c004c78149471b3440bfafac9a1be637e64fa655a1092cba5344caaee6d842a3b1e46ff4a5c36eaf46ee7d"
+string2 =  "3a61cd3f11713d50dc353927ac5163f7c2c12c2f8952ef880e4b6c270891251a8a0a9eee26c004c78149471b3440bfafe3a8b62c4cb35e3cde97b15ab3e0c5bcaee6d842a3b1e46ff4a5c36eaf46ee7d"
+
+if string1 == string2:
+    print('iguais')
+else:
+    print('diferentes')
